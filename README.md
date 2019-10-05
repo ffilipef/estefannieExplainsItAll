@@ -7,6 +7,8 @@
    - [Daft Punk Helmet](makes/DaftPunkHelmet)
    - [Ginger Bread House](makes/GingerbreadHouse/)
    - [Internet Button Controlled Automated French Press](makes/InternetButtonControlledAutomatedFrenchPress/)
+   - [Jurassic Park Goggles](makes/JurassicGoggles)
+   
    - [Pumpkin Droid](makes/pumpkinDroid/)
    - [Raspberry Pi Collaboration](makes/RaspberryPiCollab/)
    - [Raspberry Pi GPS GoPro](makes/RaspberryPiGpsGoPro/)
